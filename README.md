@@ -1,3 +1,3 @@
 # blog
 
-A simple bolg using Node.js with express.js and mongoDB.
+A simple blog using Node.js with express.js and mongoDB.
